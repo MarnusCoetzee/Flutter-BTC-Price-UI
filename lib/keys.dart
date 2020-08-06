@@ -1,0 +1,1 @@
+const coinApiKey = 'C8195969-086B-445E-9780-0DE5A97D52B3';
